@@ -1,2 +1,2 @@
 ## BMI presentation layout </br> 
-<img src="https://github.com/Brunha/Portfolio/blob/main/MAUIApps/BMI/BMi.gif" width="50%" height="30%"/>
+<img src="https://github.com/Brunha/Portfolio/blob/main/MAUIApps/BMI/BMi.gif" width="30%" height="30%"/>
