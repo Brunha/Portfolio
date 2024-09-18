@@ -4,7 +4,9 @@
 
 My nickname is *Brunha*. <br/>
 
-<img src="/icons/computer-line.svg" height="50" width="50" /> <br/>
+<!-- <img src="/icons/computer-line.svg" height="50" width="50" /> <br/>-->
+:technologist: :man_technologist: :computer:
+:man_student:
 <img src="/icons/graduation-cap-line.svg" height="50" width="50" />
 
 >[!NOTE] 
