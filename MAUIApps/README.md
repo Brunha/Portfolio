@@ -4,14 +4,14 @@
 </br>
 
 | App List | Features |
-| -------- | -------- |
-| Body Mass Index | Body Mass Balance/Calculator |
-| Color Maker | Search for colors and their values |
-| Converter Calculator | Measures convertor |
-| Dallui | AI Image generator simulator |
-| Prosper Daily | Accounting balance |
-| Quotes | Quotes generator simulator |
-| Tasker | Tasker organizer |
+| :---: | :--- |
+| **Body Mass Index** | Body Mass Balance/Calculator |
+| **Color Maker** | Search for colors and their values |
+| **Converter Calculator** | Measures convertor |
+| **Dallui** | AI Image generator simulator |
+| **Prosper Daily** | Accounting balance |
+| **Quotes** | Quotes generator simulator |
+| **Tasker** | Tasker organizer |
 </br>
 
 >[!NOTE]
