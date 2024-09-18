@@ -5,9 +5,11 @@
 My nickname is *Brunha*. <br/>
 
 <!-- <img src="/icons/computer-line.svg" height="50" width="50" /> <br/>-->
-:technologist: :man_technologist: :computer:
+:technologist: </br>
+:man_technologist: </br>
+:computer: </br>
 :man_student:
-<img src="/icons/graduation-cap-line.svg" height="50" width="50" />
+<img src="/icons/graduation-cap-line.svg" height="30" width="30" />
 
 >[!NOTE] 
 >The sole purpose of any application available, in this github repository, is to be demonstrated as capabilities for a job search purposes only. <br/> 
