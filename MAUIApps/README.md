@@ -3,17 +3,17 @@
 ### Android
 </br>
 
-|	:---:	|	:---:	|
-|		App List		| 			Features			|
+| :---: | :---: |
+| App List | Features |
 |-------------------------------------------------------|
-|	:---:	|	---:	|
-| Body Mass Index		| Body Mass Balance/Calculator 	|
-| Color Maker			| Search for colors				|
-| Converter Calculator	| Measures convertor			|
-| Dallui				| AI Image generator simulator	|
-| Prosper Daily			| Accounting balance			|
-| Quotes				| Quotes generator simulator	|
-| Tasker				| Tasker organizer				|
+| :---: | ---: |
+| Body Mass Index | Body Mass Balance/Calculator |
+| Color Maker | Search for colors |
+| Converter Calculator | Measures convertor |
+| Dallui | AI Image generator simulator |
+| Prosper Daily | Accounting balance |
+| Quotes | Quotes generator simulator |
+| Tasker | Tasker organizer |
 
 >[!NOTE]
 > Any of those aplications can be installed in android devices, for the sole demonstration purposes. Through out their apk files. 
