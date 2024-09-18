@@ -6,7 +6,7 @@
 | App List | Features |
 | -------- | -------- |
 | Body Mass Index | Body Mass Balance/Calculator |
-| Color Maker | Search for colors |
+| Color Maker | Search for colors and their values |
 | Converter Calculator | Measures convertor |
 | Dallui | AI Image generator simulator |
 | Prosper Daily | Accounting balance |
