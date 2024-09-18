@@ -3,7 +3,6 @@
 ### Android
 </br>
 
-
 | App List | Features |
 | -------- | -------- |
 | Body Mass Index | Body Mass Balance/Calculator |
@@ -13,6 +12,7 @@
 | Prosper Daily | Accounting balance |
 | Quotes | Quotes generator simulator |
 | Tasker | Tasker organizer |
+</br>
 
 >[!NOTE]
 > Any of those applications can be installed in android devices, for the sole demonstration purposes. Through out their apk files. 
