@@ -5,6 +5,7 @@
 
 
 | App List | Features |
+| -------- | -------- |
 | Body Mass Index | Body Mass Balance/Calculator |
 | Color Maker | Search for colors |
 | Converter Calculator | Measures convertor |
