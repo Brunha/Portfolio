@@ -2,7 +2,7 @@
 
 ### Greetings. <br/>
 
-My nickname is ***Brunha***. <br/>
+My nickname is *Brunha*. <br/>
 
 <img src="/icons/computer-line.svg" height="50" width="50" /> <br/>
 <img src="/icons/graduation-cap-line.svg" height="50" width="50" />
@@ -13,6 +13,6 @@ My nickname is ***Brunha***. <br/>
 
 >[!CAUTION]
 >By installing these applications, you assume full responsibility for any consequences that may arise. You may need to enable the installation of unknown applications on your Android device, by [taking this acton](https://developer.android.com/studio/publish#publishing-unknown). 
-> <picture>
+<picture>
   <source srcset="https://developer.android.com/static/images/publishing/publishing_unknown_apps_sm.png">
   </picture>
