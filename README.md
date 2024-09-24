@@ -11,8 +11,7 @@ My nickname is *Brunha*. <br/>
 :man_student:
 <img src="/icons/graduation-cap-line.svg" height="20" width="20" /> Improving and adquire knowledgement through online courses and self-learning. </br>
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=brunha.https://github.com/Brunha/Portfolio&left_color=green&right_color=red) </br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Brunha/Portfolio&left_color=green&right_color=red) </br>
 
 >[!NOTE] 
 >The sole purpose of any application available, in this github repository, is to be demonstrated as capabilities for a job search purposes only. <br/> 
