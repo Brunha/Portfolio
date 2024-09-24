@@ -11,6 +11,9 @@ My nickname is *Brunha*. <br/>
 :man_student:
 <img src="/icons/graduation-cap-line.svg" height="20" width="20" /> Improving and adquire knowledgement through online courses and self-learning. </br>
 
+
+![visitors](https://github.com/Brunha/Portfolio) </br>
+
 >[!NOTE] 
 >The sole purpose of any application available, in this github repository, is to be demonstrated as capabilities for a job search purposes only. <br/> 
 >These applications are not intended for any malicious or commercial use. </br>
