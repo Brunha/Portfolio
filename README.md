@@ -1,6 +1,6 @@
 # Welcome to my repository Portfolio </br>
 
-  This portfolio showcases various applications developed through coursework and self-study, demonstrating my capabilities for professional opportunities. <br/>
+  This portfolio showcases various ![applications developed](MAUIApps), through courses and self-study, demonstrating my capabilities for professional opportunities. <br/>
 
 <!-- -->
 
