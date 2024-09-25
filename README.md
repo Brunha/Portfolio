@@ -1,7 +1,7 @@
 # Welcome to my repository Portfolio </br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/zn8iyusePtgAAAAd/joy.gif" height="100px">
+  <img src="https://media1.tenor.com/m/zn8iyusePtgAAAAd/joy.gif">
 </p>
 
 ### Greetings. <br/>
