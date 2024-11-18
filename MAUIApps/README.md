@@ -11,7 +11,7 @@
 | **Dallui** | [AI Image generator Simulator](Dallui) |
 | **Prosper Daily** | [Accounting Balance](ProsperDaily) |
 | **Quotes** | [Quotes generator Simulator](Quotes) |
-| **Tasker** | ![Tasker Organizer](Tasker) |
+| **Tasker** | [Tasker Organizer](Tasker) |
 </br>
 
 >[!NOTE]
