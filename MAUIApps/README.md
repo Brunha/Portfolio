@@ -5,11 +5,11 @@
 
 | App List | Features |
 | :---: | :--- |
-| **Body Mass Index** | [Body Mass Balance/Calculator](BMI) |
-| **Color Maker** | [Search for colors and their values](ColorMaker) |
-| **Converter Calculator** | [Measures Convertor](ConverterCalculator) |
-| **Dallui** | [AI Image generator Simulator](Dallui) |
-| **Prosper Daily** | [Accounting Balance](ProsperDaily) |
+| [**Body Mass Index**](BMI) | Body Mass Balance/Calculator | 
+| **Color Maker** | Search for colors and their values | 
+| **Converter Calculator** | Measures Convertor | 
+| **Dallui** | AI Image generator Simulator | 
+| **Prosper Daily** | Accounting Balance | 
 | **Quotes** | [Quotes generator Simulator](Quotes) |
 | **Tasker** | [Tasker Organizer](Tasker) |
 </br>
